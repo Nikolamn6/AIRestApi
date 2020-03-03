@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "name": "Nikola",
+      "email": "nikola.n@abv.bg",
+      "password": "test123",
+      "id": 0
+    },
+    {
+      "name": "Niko Nedko",
+      "email": "nikola.n@abv.bg",
+      "password": "ddz123",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "name": "Nikola",
+      "comment": "nikola.n@abv.bg",
+      "id": 0
+    },
+    {
+      "name": "Toni",
+      "comment": "Ivan",
+      "id": 1
+    },
+    {
+      "name": "ddz",
+      "comment": "dsadasfadfsd",
+      "id": 2
+    },
+    {
+      "name": "asdasd",
+      "comment": "asdsadsad",
+      "id": 3
+    },
+    {
+      "name": ";aksd;ksadksa",
+      "comment": "asiduiasudioasd",
+      "id": 4
+    }
+  ]
+}
